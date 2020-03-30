@@ -1,6 +1,6 @@
 # watermarking
 
-The source code of implementing deep neural network (DNN) for digital watermarking, which is submitted to ArXiv with title "A General Approach for Using Deep Neural Network for Digital Watermarking"
+The source code of implementing deep neural network (DNN) for digital watermarking, please refer to: https://arxiv.org/abs/2003.12428
 
 The source code is based on TensorFlow (v1.13), sonnet (v1.35) as well as another repo: dnn-lib.
 
